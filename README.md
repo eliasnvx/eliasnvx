@@ -1,4 +1,4 @@
-# Yo, I'm Elise 👾
+# Yo, I'm Elias 👾
 
 I build shit that automates shit, so I don’t have to do shit twice.  
 LLM-integrated, full-stack wired, caffeine-fueled developer with a hatred for manual labor and Excel wizards.
