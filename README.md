@@ -3,8 +3,6 @@
 I build shit that automates shit, so I don’t have to do shit twice.  
 LLM-integrated, full-stack wired, caffeine-fueled developer with a hatred for manual labor and Excel wizards.
 
----
-
 ## 🚀 My SaaS Weapon: `nuviax.io`
 
 A dirty, modular, AI-powered arsenal built for freelancers, devs, and solo agency grinders.  
@@ -18,8 +16,6 @@ Forget templated garbage — this thing **spits out specs, blog posts, databases
 
 All tied together in a system that runs fast, ships faster, and looks better than your boss’s startup.
 
----
-
 ## 🧰 Tech Stack That Bites
 - Python (FastAPI, scraping, automation)
 - PHP (Laravel 12, Livewire, Blade)  
@@ -27,26 +23,18 @@ All tied together in a system that runs fast, ships faster, and looks better tha
 - SQLite, PostgreSQL  
 - Raw API calls to LLMs (Claude, GPT, DeepSeek)  
 
----
-
 > _“I don’t use AI to look smart. I use it so I can sleep.”_  
 > – Me, after shipping at 4AM with one eye closed
-
----
 
 ## 🧿 Find Me (If You Must)
 
 🐈‍⬛ Telegram: [@eliasnvx](https://t.me/eliasnvx)  
-
----
 
 ## ⚠️ FYI
 
 - I don't farm stars. I farm systems.  
 - I don't push "hello world". I push pipelines.  
 - And I sure as fuck don't wait on Jira tickets.
-
----
-
+  
 _Still reading?_  
 Cool. Now go automate something — or get outta here.
