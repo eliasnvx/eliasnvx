@@ -35,6 +35,13 @@ All tied together in a system that runs fast, ships faster, and looks better tha
 - I don't farm stars. I farm systems.  
 - I don't push "hello world". I push pipelines.  
 - And I sure as fuck don't wait on Jira tickets.
+
+## ☠️ Hobbies (don’t ask why)
+- Digging graves  
+- Selling garages I don’t own  
+- Taking calls strictly for sex  
+- Refactoring my childhood trauma  
+- Running from clients with no budget but big dreams  
   
 _Still reading?_  
 Cool. Now go automate something — or get outta here.
